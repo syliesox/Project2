@@ -32,7 +32,7 @@ This app also uses both GET and POST routes for retrieving and adding new data, 
   - Nodejs
   - Express
   - Sequelize
-  - Passport
+  - PassportJS
 
   ### Database
   - MySQL
