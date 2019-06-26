@@ -18,7 +18,11 @@ This app also uses both GET and POST routes for retrieving and adding new data, 
 
 
 ## Link
- - [Pie Space!](https://project2.herokuapp.com/)
+ - [Pie Space!](https://sheltered-earth-11529.herokuapp.com/)
+
+ ## Log in with a pre-registered account using:
+- E-mail: Guest@mail.com
+- Password: Guest
 
  ## Technologies Used
 
@@ -40,4 +44,11 @@ This app also uses both GET and POST routes for retrieving and adding new data, 
   ### Deployment
   - Heroku
 
-![](/public/img/pie.png?raw=true)
+## Log-in Page:
+![](/app/public/images/signin.png?raw=true)
+
+## Make, Save, and Search Recipes:
+![](/app/public/images/main.png?raw=true)
+
+## Search Results Using Edamam API:
+![](/app/public/images/api.png?raw=true)
